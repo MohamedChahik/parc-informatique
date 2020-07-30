@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-GridView_CRUD_MySql",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
